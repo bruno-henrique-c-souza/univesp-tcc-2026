@@ -4,7 +4,7 @@ Este repositório contém os scripts e notebooks para o Trabalho de Conclusão d
 
 O projeto é dividido em duas etapas principais:
 1.  **Tratamento de Dados (`main.py`)**: Processa, limpa e combina séries temporais de preços do Etanol (fonte: Cepea) e do Petróleo Brent.
-2.  **Análise e Modelagem (`notebook_llm_xgboost_tcc.ipynb`)**: Utiliza os dados tratados para realizar análises exploratórias e treinar um modelo de previsão com XGBoost.
+2.  **Análise e Modelagem (`notebook/llm_xgboost_tcc.ipynb`)**: Utiliza os dados tratados para realizar análises exploratórias e treinar um modelo de previsão com XGBoost.
 
 ---
 
