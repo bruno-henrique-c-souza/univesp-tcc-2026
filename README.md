@@ -1,4 +1,4 @@
-# TCC - Análise de Dados de Etanol e Petróleo Brent
+# TCC - Análise de Dados de Etanol, Dólar e Petróleo Brent
 
 Este repositório contém os scripts e notebooks para o Trabalho de Conclusão de Curso (TCC) do curso de Ciência de Dados da UNIVESP.
 
